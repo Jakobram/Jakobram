@@ -1,5 +1,3 @@
-Hi there 👋
-
 - Hi, I’m Jakob Ramirez
 - I’m interested in most things fitness
 - I’m currently learning Korean (slowly)
